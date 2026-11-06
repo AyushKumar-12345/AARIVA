@@ -5,7 +5,7 @@ AARIVA is a student-only dining app with a small React frontend and Express/Mong
 ## Student flow
 
 1. Sign in or create a student account.
-2. Browse today's or tomorrow's published meals.
+2. Browse weekly published meals dynamically starting on Sunday through Saturday.
 3. Reserve or cancel a meal before its booking deadline.
 4. Review upcoming reservations and their sample ₹50-per-meal total.
 5. Create a demo receipt. This does not process a payment.
